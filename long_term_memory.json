@@ -1,0 +1,113 @@
+[
+  {
+    "timestamp": "2025-04-27T14:45:29.062769",
+    "memory_text": "no, my friend david died today so we didnt celebrate ",
+    "context": "Detected keywords: david, died",
+    "keywords": [
+      "david",
+      "died"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "no, my friend david died today so we didnt celebrate "
+  },
+  {
+    "timestamp": "2025-04-27T14:45:55.658052",
+    "memory_text": "david?",
+    "context": "Detected keywords: david",
+    "keywords": [
+      "david"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "david?"
+  },
+  {
+    "timestamp": "2025-05-02T16:48:44.775153",
+    "memory_text": "today my friend died",
+    "context": "Detected keywords: died",
+    "keywords": [
+      "died"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "today my friend died"
+  },
+  {
+    "timestamp": "2025-05-02T16:49:52.880261",
+    "memory_text": "do you know david?",
+    "context": "Detected keywords: david",
+    "keywords": [
+      "david"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "do you know david?"
+  },
+  {
+    "timestamp": "2025-05-02T16:50:16.353967",
+    "memory_text": "my friend died right?",
+    "context": "Detected keywords: died",
+    "keywords": [
+      "died"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "my friend died right?"
+  },
+  {
+    "timestamp": "2025-05-03T20:47:31.740932",
+    "memory_text": "no his name is sony",
+    "context": "Detected keywords: sony",
+    "keywords": [
+      "sony"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "no his name is sony"
+  },
+  {
+    "timestamp": "2025-05-03T20:48:02.062146",
+    "memory_text": "sony is no more",
+    "context": "Detected keywords: sony",
+    "keywords": [
+      "sony"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "sony is no more"
+  },
+  {
+    "timestamp": "2025-05-03T20:48:24.979850",
+    "memory_text": "do you know who sony is",
+    "context": "Detected keywords: sony",
+    "keywords": [
+      "sony"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "do you know who sony is"
+  },
+  {
+    "timestamp": "2025-05-03T21:32:14.387836",
+    "memory_text": "no my wife died today",
+    "context": "Detected keywords: died",
+    "keywords": [
+      "died"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "no my wife died today"
+  },
+  {
+    "timestamp": "2025-05-03T21:38:17.085450",
+    "memory_text": "do you know who died?",
+    "context": "Detected keywords: died",
+    "keywords": [
+      "died"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "do you know who died?"
+  },
+  {
+    "timestamp": "2025-05-06T23:40:30.538253",
+    "memory_text": "sony was very happy",
+    "context": "Detected keywords: sony",
+    "keywords": [
+      "sony"
+    ],
+    "type": "inferred_keyword",
+    "user_input_context": "sony was very happy"
+  }
+]

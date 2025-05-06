@@ -1,0 +1,11 @@
+{
+  "name": "Alex",
+  "age": 75,
+  "location": "Mumbai",
+  "interests": ["old Bollywood songs", "Goa travels", "grandson"],
+  "memories": [
+    "Misses his late wife Mary",
+    "Used to visit Goa every summer",
+    "Enjoys talking about his grandson"
+  ]
+}
